@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5493" started-at="2019-10-20T17:10:42Z" finished-at="2019-10-20T17:10:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5493" started-at="2019-10-20T17:10:42Z" finished-at="2019-10-20T17:10:48Z">
+      <class name="apitesting.GetData">
+        <test-method status="PASS" signature="testContent()[pri:0, instance:apitesting.GetData@5e3a8624]" name="testContent" duration-ms="4536" started-at="2019-10-20T22:40:43Z" finished-at="2019-10-20T22:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContent -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:apitesting.GetData@5e3a8624]" name="testStatusCode" duration-ms="913" started-at="2019-10-20T22:40:47Z" finished-at="2019-10-20T22:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+      </class> <!-- apitesting.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
